@@ -1,6 +1,11 @@
 Datheon Data Analytics & Power BI Internship
 This repository contains projects completed as part of the Datheon Data Analytics & Power BI Internship Program.
 
+![alt text](image.png)
+
+
+![alt text](image-1.png)
+
 
 Completed Projects
 Task 1 - Superstore Sales Analysis
